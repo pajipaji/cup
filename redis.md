@@ -72,7 +72,7 @@ hdel user:1000 visits
 hincrby user:1000 visits 1
 
 //连接redis
-redis-cli
+./redis-cli
 redis-cli --raw
 redis-cli
 redis 127.0.0.1:6379>
