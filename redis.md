@@ -89,7 +89,6 @@ PONG
 keys *
 lrange labscrapy:items 0 10
 
-//
 //补充<https://www.cnblogs.com/cxxjohnson/p/9072383.html>
 1.基于内存的key-value数据库
 2.基于c语言编写的，可以支持多种语言的api //set每秒11万次，取get 81000次
